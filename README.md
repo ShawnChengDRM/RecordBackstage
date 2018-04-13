@@ -1,0 +1,3 @@
+# RecordBackstage
+ocr识别的后台
+采用springboot加上mybatis搭建
